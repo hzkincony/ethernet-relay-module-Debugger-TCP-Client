@@ -1,0 +1,78 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit1H
+#define Unit1H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <Vcl.ComCtrls.hpp>
+#include <Vcl.ExtCtrls.hpp>
+//---------------------------------------------------------------------------
+class TForm1 : public TForm
+{
+__published:	// IDE-managed Components
+	TGroupBox *GroupBox2;
+	TLabel *Label5;
+	TLabel *Label6;
+	TMemo *Memo2;
+	TMemo *Memo1;
+	TStatusBar *StatusBar1;
+	TGroupBox *GroupBox4;
+	TGroupBox *GroupBox5;
+	TShape *Shape1;
+	TShape *Shape2;
+	TShape *Shape3;
+	TShape *Shape4;
+	TShape *Shape5;
+	TShape *Shape6;
+	TShape *Shape7;
+	TShape *Shape8;
+	TGroupBox *GroupBox1;
+	TLabel *Label1;
+	TLabel *Label2;
+	TEdit *Edit1;
+	TEdit *Edit2;
+	TButton *Button1;
+	TButton *Button2;
+	TButton *Button3;
+	TButton *Button4;
+	TButton *Button5;
+	TButton *Button6;
+	TButton *Button7;
+	TButton *Button8;
+	TButton *Button9;
+	TButton *Button10;
+	TButton *Button11;
+	TButton *Button12;
+	TButton *Button13;
+	TButton *Button14;
+	TButton *Button15;
+	TButton *Button16;
+	TComboBox *ComboBox1;
+	TLabel *Label3;
+	TButton *Button17;
+	TButton *Button18;
+	TLabel *Label4;
+	TLabel *Label7;
+	TLabel *Label8;
+	TLabel *Label9;
+	TLabel *Label10;
+	TLabel *Label11;
+	TButton *Button19;
+	TButton *Button20;
+	TButton *Button21;
+	TButton *Button22;
+	TButton *Button23;
+	TButton *Button24;
+	TButton *Button25;
+	TButton *Button26;
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm1(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm1 *Form1;
+//---------------------------------------------------------------------------
+#endif

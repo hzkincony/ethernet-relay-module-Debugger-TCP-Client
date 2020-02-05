@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/03 20:05:18.000.423,=C:\Users\ibm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/02/03 20:05:18.000.406,=C:\Users\ibm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/02/03 20:05:33.000.578,C:\Users\ibm\Documents\Embarcadero\Studio\Projects\Unit1.h=G:\KC868-Hx Development Kit\Unit1.h</Transaction>
+    <Transaction>2020/02/03 20:05:33.000.578,C:\Users\ibm\Documents\Embarcadero\Studio\Projects\Unit1.cpp=G:\KC868-Hx Development Kit\Unit1.cpp</Transaction>
+    <Transaction>2020/02/03 20:05:33.000.578,C:\Users\ibm\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\KC868-Hx Development Kit\Unit1.dfm</Transaction>
+    <Transaction>2020/02/03 20:05:37.000.504,C:\Users\ibm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=G:\KC868-Hx Development Kit\Project1PCH1.h</Transaction>
+    <Transaction>2020/02/03 20:05:39.000.347,C:\Users\ibm\Documents\Embarcadero\Studio\Projects\Project1.cbproj=G:\KC868-Hx Development Kit\Project1.cbproj</Transaction>
+    <Transaction>2020/02/03 20:06:22.000.045,G:\KC868-Hx Development Kit\Project1PCH1.h=G:\KC868-Hx Development Kit\KC868Hx-Debug-ClientPCH1.h</Transaction>
+    <Transaction>2020/02/03 20:06:22.000.057,G:\KC868-Hx Development Kit\Project1.cbproj=G:\KC868-Hx Development Kit\KC868Hx-Debug-Client.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
